@@ -27,7 +27,7 @@ namespace SimpleApp
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "yaron";
+            return "yaron1";
         }
     }
 }
